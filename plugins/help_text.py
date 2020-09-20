@@ -47,7 +47,7 @@ async def cb_handler(bot, update):
                 reply_markup=InlineKeyboardMarkup(
                   [
                       [
-                      InlineKeyboardButton('📫FEEDBACK', url='https://t.me/MaxxRider'),
+                      InlineKeyboardButton('📫FEEDBACK', url='https://t.me/Chris_Carlo'),
                       InlineKeyboardButton('📍ABOUT ME', callback_data='about')
                       ],
                       [
@@ -91,7 +91,7 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📫FEEDBACK', url='https://t.me/MaxxRider'),
+          InlineKeyboardButton('📫FEEDBACK', url='https://t.me/Chris_Carlo'),
           InlineKeyboardButton('📍ABOUT ME', callback_data='about')
           ],
           [
@@ -150,7 +150,7 @@ async def donate(bot, update):
              reply_markup=InlineKeyboardMarkup(
              [
                [
-                 InlineKeyboardButton('💸 DONATE💰', url='https://t.me/MaxxDonate')
+                 InlineKeyboardButton('💸 DONATE💰', url='https://t.me/Chris_Carlo')
                ]
              ]
            )

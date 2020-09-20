@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hai <b>{}</b>,
+    START_TEXT = """Hai,
 
 <code>I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By:</b> <a href='https://t.me/Chris_Carlo'>Chris Carlo 👨‍🎤</a>
 
@@ -7,11 +7,9 @@ Press help button which is available at the bottom to know how to use me."""
 
     START_TEXT_1 = """Hai,
 
-<code> I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Maintained By:</b> <a href='https://t.me/Darklester'>Darklester 👨‍🎤</a>
+<code> I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By:</b> <a href='https://t.me/Darklester'>Chris_Carlo'>Chris Carlo 👨‍🎤</a>
 
-📍For more info /help
-
-<tt><b>Press help button which is available at the bottom to know how to use me.</b></tt>"""
+Press help button which is available at the bottom to know how to use me."""
 
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."

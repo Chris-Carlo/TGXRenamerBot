@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hai<b>{}</b>,
+    START_TEXT = """Hai <b>{}</b>,
 
 <code>I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By:</b> <a href='https://t.me/Chris_Carlo'>Chris Carlo 👨‍🎤</a>
 

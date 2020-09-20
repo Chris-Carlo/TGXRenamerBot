@@ -1,0 +1,9 @@
+aiohttp
+beautifulsoup4
+git+git://github.com/google/chatbase-python.git
+hachoir
+numpy
+Pillow
+https://github.com/Mahesh0253/pyrogram/archive/asyncio.zip
+requests
+tgcrypto
